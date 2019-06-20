@@ -1,0 +1,27 @@
+html {
+    background-color: rgb(39, 36, 36);
+    font-family: 'Indie Flower', cursive; /* this should be the rest of the output you got from Google fonts */
+    font-size: 25px; /* px means "pixels": the base font size is now 15 pixels high */
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgba(129, 246, 231, 0.418);
+    padding: 0 20px 20px 20px;
+    border: 5px solid whitesmoke;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(58, 226, 43);
+    text-shadow: 3px -5px 10px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
